@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Kind2l/kasa/static/css/main.f10ba5b4.css",
+    "main.js": "/Kind2l/kasa/static/js/main.d66ddf1e.js",
+    "static/media/about.png": "/Kind2l/kasa/static/media/about.07288cd5d1219120d36b.png",
+    "static/media/banner1.png": "/Kind2l/kasa/static/media/banner1.56ef3d6d5df504a672e1.png",
+    "static/media/logo.svg": "/Kind2l/kasa/static/media/logo.0e43281043b21ee1cfd73a654b8ad99c.svg",
+    "index.html": "/Kind2l/kasa/index.html",
+    "static/media/star.svg": "/Kind2l/kasa/static/media/star.ad0b89383eceb117dee89ec795f8b406.svg",
+    "static/media/arrow.svg": "/Kind2l/kasa/static/media/arrow.78bd04c58743a7da8d3cf86f2cc23063.svg",
+    "main.f10ba5b4.css.map": "/Kind2l/kasa/static/css/main.f10ba5b4.css.map",
+    "main.d66ddf1e.js.map": "/Kind2l/kasa/static/js/main.d66ddf1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f10ba5b4.css",
+    "static/js/main.d66ddf1e.js"
+  ]
+}
